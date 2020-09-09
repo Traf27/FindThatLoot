@@ -8,4 +8,5 @@ Eventualy I'll introduce ability to add your ctrl+C items maualy.
 
 Source code is *fork of Looty 0.2.1.76 4-Dec-2019* https://github.com/benjaminjackman/looty    
 https://www.pathofexile.com/forum/view-thread/832233 
-**by Benjamin Jackman** /u/kingcub on reddit. And all credit goes to him. 
+**by Benjamin Jackman** /u/kingcub on reddit. 
+All credit for creating it goes to him and previous contributors. 

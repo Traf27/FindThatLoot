@@ -10,3 +10,6 @@ Source code is *fork of Looty 0.2.1.76 4-Dec-2019* https://github.com/benjaminja
 https://www.pathofexile.com/forum/view-thread/832233  
 **by Benjamin Jackman** /u/kingcub on reddit.  
 All credit for creating it goes to him and previous contributors. 
+
+At last author of program answered me about some questions. And pull request to original Looty will be made as per request.
+So back to source :)
